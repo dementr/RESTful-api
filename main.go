@@ -12,7 +12,7 @@ import (
 	"fmt"
 )
 
-// https://4gophers.ru/articles/avtorizaciya-v-go-s-ispolzovaniem-jwt/#.WfofOddl8uU
+//  https://4gophers.ru/articles/avtorizaciya-v-go-s-ispolzovaniem-jwt/#.WfofOddl8uU
 
 func main() {
 
